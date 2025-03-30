@@ -1384,22 +1384,22 @@ tem o Upgrade iniciado do Binario
 
 273
 00:26:02,500 --> 00:26:10,110
-que esta no meu servidor. Ja, jetzt
-geht's noch zum Thema eigene Firmware. Ich
+que esta no meu servidor. Agora estamos 
+falando do nosso próprio firmware. Eu
 
 274
 00:26:10,110 --> 00:26:17,480
-habe euch ja schon gesagt - ach genau -
-die hab ich ja schon erwähnt, dass ich da
+Eu já disse a você - ah, 
+já mencionei que queria fazer 
 
 275
 00:26:17,480 --> 00:26:21,299
-verschiedene Versionen machen wollte unter
-anderem die eine die eigentlich nur das
+versões diferentes, incluindo 
+uma que apenas envia
 
 276
 00:26:21,299 --> 00:26:26,659
-WLAN Passwort mal raus pusht. E então 
+a senha do WiFi.E então 
 eu só gravei. Geralmente
 
 277
@@ -1781,68 +1781,68 @@ ninguém sabe quem realmente tem
 
 353
 00:34:04,730 --> 00:34:15,540
-acesso a ele.Und. Ja. Das große
-Problem für mich ist, dass es die
+acesso a ele. 
+O grande problema para mim 
 
 354
 00:34:15,540 --> 00:34:19,360
-einfachsten Verbrauchsgegenstände, weil
-eine Glühbirne ist ja wirklich eigentlich
+e que eles são os consumíveis mais simples, 
+porque uma lâmpada está ali apenas para
 
 355
 00:34:19,360 --> 00:34:26,580
-nur dazu da ein bisschen Licht zu machen,
-und für mich vergleichbar zu Klopapier ein
+emitir um pouco de luz, e para mim 
+eles são um consumível simples, 
 
 356
 00:34:26,580 --> 00:34:31,000
-einfacher Verbrauchsgegenstand. Und jetzt
-wird nach und nach alles Smart und wenn
+comparável ao papel higiênico. E agora 
+tudo está se tornando inteligente e 
 
 357
 00:34:31,000 --> 00:34:36,880
-selbst so kleine Geräte, die so normal für
-uns alle sind, weil jeder hat eine
+se até mesmo pequenos dispositivos
+que são tão normais para todos nós porque 
 
 358
 00:34:36,880 --> 00:34:40,640
-Glühbirne zuhause, auf einmal smart sein
-müssen dann bringt man natürlich auch
+todo mundo tem uma lâmpada em casa, 
+de repente têm que ser inteligentes, 
 
 359
 00:34:40,640 --> 00:34:44,990
-viele Gefahren mit in seinen eigenen
-Haushalt. Und den meisten Leuten ist es
+então isso traz muitos perigos para a sua 
+própria casa. E a maioria das pessoas 
 
 360
 00:34:44,990 --> 00:34:48,990
-einfach nicht bewusst weil sie denken: Ok.
-Wenn jemand die Glühbirne hackt, was will
+não tem consciência disso pois pensam: Ok.
+Se alguém hackear a lâmpada, o que essa pessoa 
 
 361
 00:34:48,990 --> 00:34:54,590
-er machen? Das Licht an-ausschalten? Aber
-die tatsächliche Konsequenz ist natürlich
+pode fazer? Ligar/desligar a luz? Mas 
+a consequência real é, obviamente,
 
 362
 00:34:54,590 --> 00:35:03,560
-ganz anders, dass auf einmal das komplette
-lokale Netzwerk von außen offen ist und
+bem diferente: de repente, toda 
+a rede local fica acessível 
 
 363
 00:35:03,560 --> 00:35:09,620
-auch auf private Daten und so weiter zu
-zugegriffen werden kann. Das einzig
+do lado de fora e dados privados 
+podem ser acessados. A única coisa
 
 364
 00:35:09,620 --> 00:35:14,310
-Positive jedoch aus dem, aus meinen
-Erkenntnissen ist eben, dass man die
+positiva da minha experiência, no 
+entanto, é que você pode desligar 
 
 365
 00:35:14,310 --> 00:35:19,600
-Hersteller-Cloud doch recht gut abschalten
-kann. Das zeigt aber auch wieder, dass es
+a nuvem do fabricante com facilmente.
+Das zeigt aber auch wieder, dass es
 
 366
 00:35:19,600 --> 00:35:23,720
