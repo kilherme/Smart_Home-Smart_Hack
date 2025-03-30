@@ -1075,13 +1075,13 @@ eles não são usados. E isto é
 
 211
 00:19:39,941 --> 00:19:43,390
-novamente "muito seguro". Wie gesagt, in dem
-Feld. man sieht es hier nicht, aber da ist
+novamente "muito seguro". Como disse,
+você não pode ver, mas a chave local
 
 212
 00:19:43,390 --> 00:19:51,110
-auch der local Key in clear drin, in der
-Anfrage. E então fiz uma pequena
+também está legível na solicitação. 
+E então fiz uma pequena
 
 213
 00:19:51,110 --> 00:19:55,580
