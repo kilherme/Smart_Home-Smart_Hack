@@ -1364,27 +1364,27 @@ den MD5 einfach die Daten meiner neuen
 
 269
 00:25:33,110 --> 00:25:42,600
-Firmware geschrieben. Und das geht auch
-mit ein paar kleinen Skripts. Das heißt,
+Firmware geschrieben. E isso pode ser feito 
+com alguns pequenos scripts. Isso significa,
 
 270
 00:25:42,600 --> 00:25:49,669
-man gibt an, dass er irgendwelche fertigen
-Strings in den HTTP-Replies sucht und dann
+fala-se que a atualização esta pronta
+por Strings em resapostas-HTTP então 
 
 271
 00:25:49,669 --> 00:25:54,600
-einfach ersetzt und danach ging es
-eigentlich nur noch darum einen eigenen
+simplesmente substitui e então 
+basta rodar ser servidor
 
 272
 00:25:54,600 --> 00:26:02,500
-HTTP-Server zu installieren und die Lampe
-hat nach dem Upgrade Trigger das Binary
+HTTP para instalar e a Lampada
+tem o Upgrade iniciado do Binario
 
 273
 00:26:02,500 --> 00:26:10,110
-von meinem Server gezogen. Ja, jetzt
+que esta no meu servidor. Ja, jetzt
 geht's noch zum Thema eigene Firmware. Ich
 
 274
