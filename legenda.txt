@@ -1121,57 +1121,57 @@ partes muito importantes, como criptografia..
 
 220
 00:20:27,380 --> 00:20:33,740
-Und es gibt noch ein SDK das habe ich
-angefragt aber bevor ich es geschickt
+E tem outro SDK que eu pedi 
+mas antes de receber 
 
 221
 00:20:33,740 --> 00:20:36,759
-bekommen habe, habe ich es auch im Internet
-gefunden, ist eigentlich auch öffentlich
+também achei na internet
+pois está disponível publicamente
 
 222
 00:20:36,759 --> 00:20:43,690
-zugänglich und mit dem SDK waren pre-
-compiled Libraries drin, die ich dann auch
+e com ele havia bibliotecas pré-compiladas 
+nele, que eu poderia então
 
 223
 00:20:43,690 --> 00:20:47,740
-analysieren konnte und wenn ich meine
-eigene Firmware damit kompiliert habe,
+analisar e quando compilei meu próprio 
+firmware com ele, tive uma saída de amostra 
 
 224
 00:20:47,740 --> 00:20:52,639
-hatte ich ein Sample Output und brauchte
-kein wirkliches Disassembling. Das
+e não precisei fazer Disassembling. 
+O resultado da análise criptográfica
 
 225
 00:20:52,639 --> 00:21:00,110
-Ergebnis der Crypto-Analyse war, dass ich
-dann in einem kleinen 60 Zeilen Skript ja
+foi que tinha todas as criptografias 
+usadas em um pequeno 
 
 226
 00:21:00,110 --> 00:21:05,740
-alle verwendeten Verschlüsselungen drin
-hatte und es wird eigentlich nur ein
+script de 60 linhas,
+e ele na verdade usa apenas 
 
 227
 00:21:05,740 --> 00:21:13,029
-AES-128 verwendet mit dem Local Key und
-die MD5 Check-Summe teilweise über gewisse
+AES-128 com a chave local, e a soma de 
+verificação MD5 é parcialmente criada usando 
 
 228
 00:21:13,029 --> 00:21:18,750
-Teile davon gebildet, auch als Sicherheit
-und signiert werden die Daten auch mit
+certas partes dela, também como segurança, 
+e os dados também são assinados 
 
 229
 00:21:18,750 --> 00:21:29,200
-einem MD5. So, dann hab ich erst mal
-geguckt wie funktioniert denn so eine
+com MD5. Então, primeiro 
+eu pesquisei como funciona
 
 230
 00:21:29,200 --> 00:21:33,139
-Registrierung. Also die Registrierung
+o registro. Also die Registrierung
 selbst einer Lampe an der Cloud
 
 231
