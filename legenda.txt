@@ -1841,22 +1841,22 @@ entanto, é que você pode desligar
 
 365
 00:35:14,310 --> 00:35:19,600
-a nuvem do fabricante com facilmente.
-Das zeigt aber auch wieder, dass es
+a nuvem do fabricante facilmente.
+Mas isso mostra que 
 
 366
 00:35:19,600 --> 00:35:23,720
-eigentlich überhaupt nicht notwendig ist,
-weil man kann die Lampe mit den anderen
+não é necessário, porque você pode usar
+a lâmpada muito melhor com outro 
 
 367
 00:35:23,720 --> 00:35:27,910
-Firrmwaren noch viel besser benutzen und
-so weiter, ohne dass eben diese Daten
+firmware aberto
+sem que esses dados 
 
 368
 00:35:27,910 --> 00:35:33,350
-gespeichert werden. Und eigentlich ist es
+sejam salvos. Und eigentlich ist es
 von meiner Seite ein Appell an die IoT-
 
 369
