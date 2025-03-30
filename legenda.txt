@@ -1687,102 +1687,101 @@ para que possamos operá-la sem a nuvem.
 
 334
 00:32:07,039 --> 00:32:10,590
-Und wie gesagt,ich werde es dann
-auch veröffentlichen da kann dann jeder
+E como eu disse, vou publicá-lo 
+para que cada um possa fazer
 
 335
 00:32:10,590 --> 00:32:19,809
-damit machen was er möchte. Ja, zum Fazit.
-Das Sicherheitslevel von diesen Geräten
+o que quiser com ele. Para a conclusão. 
+O nível de segurança desses dispositivos
 
 336
 00:32:19,809 --> 00:32:26,820
-ist tatsächlich minimal. Also es ist
-wirklich so, dass alles was ich
+é realmente mínimo. Então é 
+realmente verdade que tudo 
 
 337
 00:32:26,820 --> 00:32:33,460
-probiert habe hat direkt funktioniert. Es
-gab keinerlei Verschlüsselung von Daten
+que tentei funcionou imediatamente. 
+Não havia criptografia nos dados 
 
 338
 00:32:33,460 --> 00:32:41,250
-die in dem Gerät selbst abgelegt werden.
-Die Firmware war weder signiert noch die
+armazenados no próprio dispositivo.
+O firmware não foi assinado 
 
 339
 00:32:41,250 --> 00:32:46,380
-Updates waren signiert. Also ich kann
-direkt Änderungen direkt daran machen. Die
+nem as atualizações foram. Então posso 
+fazer atualizações diretamente.
 
 340
 00:32:46,380 --> 00:32:52,059
-Datenspeicherung ist unverschlüsselt und
-die Datenübertragung war auch eigentlich
+O armazenamento de dados não é 
+criptografado e a transmissão de dados 
 
 341
 00:32:52,059 --> 00:32:57,549
-in den kritischsten Fällen
-unverschlüsselt. Und da war, wo sie
+também não é criptografada nos 
+casos mais críticos. E onde havia, 
 
 342
 00:32:57,549 --> 00:33:06,039
-verschlüsselt war es ja keine
-Hürde. Das viel Erschreckendere jedoch ist
+onde estava criptografado, não havia
+Obstáculo. O que é muito mais assustador, 
 
 343
 00:33:06,039 --> 00:33:13,830
-das große Datensammeln. Für mich ist es
-völlig unklar warum der Hersteller und der
+no entanto, é a coleta massiva de dados. 
+Para mim, não está completamente claro 
 
 344
 00:33:13,830 --> 00:33:20,019
-Reseller oder wer auch immer Zugriff auf
-den Account hat, wissen muss wo genau
+por que o fabricante e o revendedor ou quem quer 
+que tenha acesso à conta precisa saber exatamente onde 
 
 345
 00:33:20,019 --> 00:33:23,049
-diese Lampe sich befindet und das war
-wirklich so, dass die GPS-Koordinaten die
+esta lâmpada está localizada e isso foi
+realmente para que as coordenadas GPS 
 
 346
 00:33:23,049 --> 00:33:28,110
-waren über das Handy ermittelt, bei der
-Registrierung. Aber die waren sehr genau
+fossem determinadas através do telemóvel, no
+Registro. Mas eles foram muito precisos 
 
 347
 00:33:28,110 --> 00:33:34,080
-und ich habe quasi den Schreibtisch an dem
-ich gesessen habe quasi in den Koordinaten
+e consegui encontrar a mesa em que 
+estava sentado nas coordenadas
 
 348
 00:33:34,080 --> 00:33:40,020
-wiedergefunden und da sehe ich keinen
-Grund dafür. Und es ist natürlich auch
+e não vejo razão para isso. E, claro, 
 
 349
 00:33:40,020 --> 00:33:46,320
-erschreckend wer alles darauf Zugriff hat.
-Die Datenweitergabe und -Speicherung ist
+também é assustador quem tem acesso a ele.
+O compartilhamento e armazenamento de dados 
 
 350
 00:33:46,320 --> 00:33:53,679
-auch äußerst undurchsichtig. Also es wird
-zwar teilweise gesagt, dass die Daten mit
+também são extremamente opacos. Por isso, 
+às vezes é dito que os dados são hospedados
 
 351
 00:33:53,679 --> 00:33:58,749
-auch in Deutschland gehostet werden aber
-auch jederzeit nach Fernost übertragen
+na Alemanha, mas também podem ser 
+transferidos para o Oriente 
 
 352
 00:33:58,749 --> 00:34:04,730
-werden können. Und wer wirklich darauf
-Zugriff hat, das weiß natürlich keiner und
+a qualquer momento. E é claro que 
+ninguém sabe quem realmente tem
 
 353
 00:34:04,730 --> 00:34:15,540
-ist auch nicht bekannt. Und. Ja. Das große
+acesso a ele.Und. Ja. Das große
 Problem für mich ist, dass es die
 
 354
