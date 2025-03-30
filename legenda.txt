@@ -1240,103 +1240,103 @@ qual versão é ele, e assim por diante.
 
 244
 00:23:01,260 --> 00:23:06,620
-Dann lädt sich die Lampe einfach von einem
-HTTP-Server das Binary und installiert es
+Em seguida, a lâmpada simplesmente baixa 
+o binário de um servidor HTTP e o instala 
 
 245
 00:23:06,620 --> 00:23:13,130
-in die nicht genutzte User Partition. Für
-mich war es ganz einfach, ich habe mir als
+na partição de usuário não utilizada. 
+Para mim foi bem simples, primeiro 
 
 246
 00:23:13,130 --> 00:23:20,769
-allererstes mal einen eigenen MQTT-Server
-genommen und hab dann versucht das Trigger
+criei meu próprio servidor MQTT 
+e depois tentei gerar um gatilho
 
 247
 00:23:20,769 --> 00:23:27,669
-selbst zu generieren. Und danach habe ich
-mit einer Man-in-the-Middle Attack den HTTP
+para iniciar. E então usei um ataque do
+tipo man-in-the-middle para modificar
 
 248
 00:23:27,669 --> 00:23:31,500
-Request verändert und hab der Glühbirne
-eben gesagt, dass sie von meinem eigenen
+a solicitação HTTP e disse 
+à lâmpada para carregar o firmware 
 
 249
 00:23:31,500 --> 00:23:38,389
-Server die Firmware laden soll.
-Funktionieren tut das ganz einfach so, der
+do meu próprio servidor.
+Funciona de forma bem simples: 
 
 250
 00:23:38,389 --> 00:23:43,610
-eigene MQTT-Server wird benutzt. Dafür
-musste ich einfach den DNS-Server
+seu próprio servidor MQTT é usado. 
+Para fazer isso, eu  tive que redirecionar
 
 251
 00:23:43,610 --> 00:23:50,840
-umbiegen, dass eben nicht mehr auf den
-MQTT-Server des Cloud Anbieters geschaut
+o servidor DNS para que ele não olhasse 
+mais para o servidor MQTT do provedor de nuvem, 
 
 252
 00:23:50,840 --> 00:23:56,679
-wird sondern auf meinen Lokalen. Man sieht
-dass sich die Lampe anmeldet und
+mas para o meu servidor local. Você 
+pode ver que a lâmpada está 
 
 253
 00:23:56,679 --> 00:24:05,299
-irgendwelche Nachrichten ausgetauscht
-werden. Das Nächste war eigentlich so das
+registrando e algumas mensagens estão 
+sendo trocadas. O próximo foi o mais 
 
 254
 00:24:05,299 --> 00:24:12,210
-kniffligste. Das war der Upgrade-Trigger,
-den hab ich erst mal analysiert, der kommt
+complicado. Esse foi o gatilho 
+da atualização, que analisei 
 
 255
 00:24:12,210 --> 00:24:16,690
-tatsächlich verschlüsselt und wurde dann
-entschlüsselt mit einem Local Key und dann
+primeiro. Na verdade, ele vem criptografado 
+e depois foi descriptografado com uma chave local. 
 
 256
 00:24:16,690 --> 00:24:23,289
-hat man darin gesehen dass das Protokoll
-15 quasi das Upgrade triggert und man kann
+Então você pode ver que o protocolo 15 
+essencialmente aciona a atualização. 
+
 
 257
 00:24:23,289 --> 00:24:29,690
-sich dann einfach mit meinen Skripts die
-Trigger generieren. Beim Timestamp der
+Você pode então simplesmente gerar os 
+gatilhos com meus scripts. O Timestamp 
 
 258
 00:24:29,690 --> 00:24:33,570
-verwendet wird ist es auch so, dass es die
-Lampe sehr sehr gnädig ist. Der kann auch
+que é usado na atualização
+também é muito tolerante.Ele também 
 
 259
 00:24:33,570 --> 00:24:36,659
-gerne mal ein bisschen älter sein oder man
-kann das auch öfter verwenden. Das
+pode ser um pouco mais antigo ou você
+pode usá-lo com mais frequência. Isso 
 
 260
 00:24:36,659 --> 00:24:45,700
-funktioniert dann auch immer wieder und so
-konnte man einfach über den Moskito Befehl
+funciona repetidamente
+você poderia simplesmente acionar a atualização 
 
 261
 00:24:45,700 --> 00:24:50,320
-das Upgrade triggern. Ja, ich habe dann
-noch ein bisschen automatisiert, dass
+usando o comando do Mosquito.Então automatizei um pouco as coisas para que tudo 
 
 262
 00:24:50,320 --> 00:24:56,340
-alles mit einem Klick passiert quasi, das
-hab ich auch eigentlich gemacht für euch
+acontecesse com um clique, por assim 
+dizer. Na verdade, fiz isso 
 
 263
 00:24:56,340 --> 00:24:59,340
-alle, weil ich es dann später alles
-veröffentlichen werde.
+para todos vocês, porque 
+publicarei tudo mais tarde.
 
 264
 00:24:59,340 --> 00:25:07,259
