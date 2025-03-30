@@ -1171,67 +1171,67 @@ eu pesquisei como funciona
 
 230
 00:21:29,200 --> 00:21:33,139
-o registro. Also die Registrierung
-selbst einer Lampe an der Cloud
+o registro. Então o registro de uma
+lâmpada na nuvem funciona assim: 
 
 231
 00:21:33,139 --> 00:21:40,750
-funktioniert so, dass die Mobile-App einen
-Token anfragt an der Cloud, schickt den
+o aplicativo móvel solicita 
+um token da nuvem, envia via 
 
 232
 00:21:40,750 --> 00:21:48,490
-über Morse Protokoll namens SmartConfig
-mit den Wifi-Credentials zur Lampe, die
+protocolo Morse chamado SmartConfig 
+com as credenciais WiFi para a lâmpada,
 
 233
 00:21:48,490 --> 00:21:56,240
-meldet sich im WLAN an und schickt dann
-den Token zurück an die Cloud und bekommt
+que faz login na WLAN e então 
+envia o token de volta para a nuvem e recebe
 
 234
 00:21:56,240 --> 00:22:06,130
-die MQTT-Login Daten und fragt nach der
-Activation. Das ist eine HTTP-Anfrage
+os dados de login MQTT e pede 
+a Ativação. Esta também é uma solicitação HTTP, 
 
 235
 00:22:06,130 --> 00:22:11,470
-auch, bei der dann der Local Key und der
-Security Key in clear zurückkommen. Der
+aonde a chave local e a chave de segurança 
+são retornadas em texto simples. A
 
 236
 00:22:11,470 --> 00:22:16,090
-Local Key geht auch zur App und danach
-kann sich die Lampe anmelden an der Cloud
+A chave local também vai para o aplicativo e 
+depois disso a lâmpada pode fazer login na nuvem 
 
 237
 00:22:16,090 --> 00:22:25,529
-und kommuniziert weiterhin mit der Cloud
-und kann verwendet werden. Was mich viel
+e continuar a se comunicar 
+com ela e pode ser usada. O que me 
 
 238
 00:22:25,529 --> 00:22:29,580
-mehr interessiert hat war das Upgrade weil
-ich ja eigentlich meine eigene Firma
+interessou muito mais foi a atualização,
+porque eu realmente queria trazer minha própria empresa 
 
 239
 00:22:29,580 --> 00:22:35,399
-reinbringen wollte und dazu hatte
-ich eine Lampe, die hat eine neue
+e para isso eu tinha uma lâmpada que tinha um novo 
 
 240
 00:22:35,399 --> 00:22:42,120
-Firmware, ein Firmware-Upgrade gehabt und
-das funktioniert im Endeffekt so, auf dem
+firmware, uma atualização de firmware 
+e no final funciona assim: 
 
 241
 00:22:42,120 --> 00:22:47,429
-Handy wird gefragt, ob das Upgrade
-durchgeführt werden soll. Então 
+o telefone pergunta se a 
+atualização deve ser feita.  
 
 242
 00:22:47,429 --> 00:22:51,710
-um trigger é acionado e o trigger é enviado para a lâmpada e a lâmpada pergunta 
+Então um trigger é acionado e o 
+trigger é enviado para a lâmpada e a lâmpada pergunta 
 
 243
 00:22:51,710 --> 00:23:01,260
