@@ -1856,52 +1856,51 @@ sem que esses dados
 
 368
 00:35:27,910 --> 00:35:33,350
-sejam salvos. Und eigentlich ist es
-von meiner Seite ein Appell an die IoT-
+sejam salvos. E da minha parte, 
+faço um apelo aos fabricantes de IoT 
 
 369
 00:35:33,350 --> 00:35:39,400
-Hersteller eben, dass diese gute Technik
-und schöne Technik und bequeme Technik den
+para que forneçam essa tecnologia 
+boa , bonita e conveniente 
 
 370
 00:35:39,400 --> 00:35:45,410
-Usern bereitzustellen ohne diese ganzen
-Daten zu sammeln. Und wenn der Anbieter zu
+aos usuários sem coletar todos esses dados. 
+E se o provedor me disser: 
 
 371
 00:35:45,410 --> 00:35:52,200
-mir sagt: "it is avoidless", auf die Frage
-ob die Daten denn nicht gespeichert werden
+"é evitável", quando perguntado
+se os dados não podem ser 
 
 372
 00:35:52,200 --> 00:36:01,160
-können, ist es tatsächlich eine Lüge und
-auch nicht, ja, notwendig. Ja. Ich habe
+salvos é na verdade uma mentira 
+e não, não é necessário.Já 
 
 373
 00:36:01,160 --> 00:36:08,630
-schon angekündigt, ich werde noch weitere
-Infos auf der, auf unserer Website zum
+anunciei que adicionarei mais
+Informações disponíveis para download 
+
 
 374
 00:36:08,630 --> 00:36:14,750
-Download bereit geben. Unter anderem halt
-auch Skripte mit denen man dann andere
+em nosso site. Entre outras coisas, também há scripts com os quais você pode instalar outro 
 
 375
 00:36:14,750 --> 00:36:17,743
-Firmware auf solche Geräte flashen kann
+firmware nesses dispositivos. Infelizmente,
 
 376
 00:36:17,743 --> 00:36:21,040
-und bin leider noch nicht dazu 
-gekommen das alles fertig
+ ainda não terminei tudo isso,
 
 377
 00:36:21,040 --> 00:36:29,070
-zu machen aber das wird in Kürze folgen.
-Ja, Agora chegamos à parte das perguntas 
+mas isso acontecerá em breve.
+Agora chegamos à parte das perguntas 
 
 378
 00:36:29,070 --> 00:36:36,690
