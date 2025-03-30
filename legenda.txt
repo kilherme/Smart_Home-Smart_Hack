@@ -973,26 +973,26 @@ natürlich noch eine andere Möglichkeit
 191
 00:17:40,309 --> 00:17:48,950
 auch, solche Geräte in den Verkehr zu
-bringen. Jetzt war eigentlich für mich die
+bringen. Agora terminou meu
 
 192
 00:17:48,950 --> 00:17:53,919
-Arbeit beendet, weil meinem Kunden konnte
-ich natürlich nicht mehr helfen oder nicht
+trabalho, pois eu não podia mais
+ajudar meu cliente ou dizer
 
 193
 00:17:53,919 --> 00:18:00,230
-sagen, okay wir nehmen einen tollen
-Military-Grade Anbieter aus Fernost,
+ok, nós temos um ótimo fornecedor 
+de nível Militar da Asia, então
 
 194
 00:18:00,230 --> 00:18:04,480
-sondern wir müssen was Eigenes machen.
-Trotzdem hatte ich eine eigene, neue
+devemos fazer por conta própria.
+Com isso, eu tive minha nova
 
 195
 00:18:04,480 --> 00:18:08,370
-Motivation. Em primeiro lugar,
+motivação. Em primeiro lugar,
 é possível usar todos esses 
 
 196
@@ -1081,27 +1081,28 @@ Feld. man sieht es hier nicht, aber da ist
 212
 00:19:43,390 --> 00:19:51,110
 auch der local Key in clear drin, in der
-Anfrage. Und dann habe ich eine kleine
+Anfrage. E então fiz uma pequena
 
 213
 00:19:51,110 --> 00:19:55,580
-Crypto Analyse gemacht, um auch zu sehen
-was sonst noch so alles in den
+análise criptográfica para ver 
+o que havia nas dados 
+
 
 214
 00:19:55,580 --> 00:20:01,370
-verschlüsselten Nachrichten drin steckt
-und dadurch dass der ESP verwendet wird
+criptografados e, como o ESP é usado, 
+tem esse core Tensilica XTENSA, 
 
 215
 00:20:01,370 --> 00:20:07,520
-und diesen Tensilica XTENSA Core hat, ist
-das Disassemblieren sehr mühselig von dem
+fazer o Disassembler do binário
+é muito difícil porque 
 
 216
 00:20:07,520 --> 00:20:11,929
-Binary, weil es eben keine guten Plugins
-gibt und auch keine guten Disassembler.
+não há bons plugins nem 
+bons apps de Disassembler. 
 
 217
 00:20:11,929 --> 00:20:17,740
