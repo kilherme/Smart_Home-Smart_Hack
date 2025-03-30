@@ -1106,18 +1106,18 @@ bons apps de Disassembler.
 
 217
 00:20:11,929 --> 00:20:17,740
-Und dann hab ich mich mal ein bisschen
-umgeschaut. Und es gibt von dem Cloud-
+E então olhei um pouco em volta. 
+E o provedor de nuvem tem uma 
 
 218
 00:20:17,740 --> 00:20:23,440
-Anbieter eine sehr gute API Dokumentation,
-die zwar auch sehr viele Fehler hat, aber
+documentação de API muito boa, 
+que contém muitos erros, 
 
 219
 00:20:23,440 --> 00:20:27,380
-da drin sind auch sehr wichtige Teile wie
-Verschlüsselungen teilweise dokumentiert.
+mas também documenta parcialmente 
+partes muito importantes, como criptografia..
 
 220
 00:20:27,380 --> 00:20:33,740
