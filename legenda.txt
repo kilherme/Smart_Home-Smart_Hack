@@ -1603,92 +1603,91 @@ atualizar o firmware da lâmpada.
 
 317
 00:30:35,640 --> 00:30:40,970
- Das heißt
-man, man bekommt es nicht mit und man kann
+Isso significa que você 
+não vê e pode lançar 
 
 318
 00:30:40,970 --> 00:30:46,380
-einfach Trojaner in irgendwelche Lampen
-rein flashen und das halt auch im ganz
+trojans em qualquer lâmpada, 
+o que pode ser feito em grande escala.
 
 319
 00:30:46,380 --> 00:30:51,070
-großen Bereich. Das heißt, wenn ich jetzt
-20 000 Lampen verkauft hab, dann kann ich
+Isso significa que se eu tiver 
+vendido 20.000 lâmpadas, 
 
 320
 00:30:51,070 --> 00:30:56,149
-einfach mich durch meine Web-Applikationen
-klicken, lade das neue Binary mit dem
+posso clicar em meus aplicativos da web, 
+carregar o novo binário com o Trojan, 
 
 321
 00:30:56,149 --> 00:31:00,019
-Trojaner hoch und gestern war es noch eine
-sichere Lampe und morgen ist es einfach
+e ontem o que era uma lâmpada segura, 
+amanhã terá o Trojan,
 
 322
 00:31:00,019 --> 00:31:04,990
-der Trojaner und der Nutzer selbst bekommt
-es einfach überhaupt nicht mit. Und, ja,
+e o usuário simplesmente 
+não notará isso. E, sim, 
 
 323
 00:31:04,990 --> 00:31:12,210
-wie gesagt, ich habe das Flashen selbst
-gemacht durch, durch Löten am Anfang, es
+como eu disse, eu fiz, de início, flashing por meio de soldagem,
+
 
 324
 00:31:12,210 --> 00:31:15,380
-geht aber auch mit der ganz normalen Man-
-in-the-Middle-Attack, oder der Cloud
+mas isso também pode ser feito com o 
+ataque do tipo man-in-the-middle, ou o 
 
 325
 00:31:15,380 --> 00:31:22,629
-Provider kann das einfach mit seinen ganz
-normalen Tools jederzeit durchführen. Was
+provedor de nuvem pode fazer 
+isso a qualquer momento . Outra
 
 326
 00:31:22,629 --> 00:31:27,759
-auch noch ein Thema war für mich, war
-eben: Kann ich das Ding auch ohne Cloud
+questão feita pra mim foi:
+Posso fazer isso sem a Nuvem?
 
 327
 00:31:27,759 --> 00:31:34,879
-betreiben? Wenn ich jetzt so eine
-Lampe zuhause hab, dann hab ich gedacht,
+Agora que tenho uma lampada 
+como essa em casa, penso: 
 
 328
 00:31:34,879 --> 00:31:41,370
-Ok, es gibt verschiedene Open Source
-Software die auch sehr viele tolle
+"Ok, existem vários softwares de 
+código aberto que têm muitos 
 
 329
 00:31:41,370 --> 00:31:47,450
-Funktionen haben sogar danach noch mehr
-können und so weiter und der normale
+recursos excelentes e 
+podem fazer ainda mais", 
 
 330
 00:31:47,450 --> 00:31:52,289
-Workflow, das zu flashen ist einfach dass
-man wirklich die Lampe aufbricht und dann
+e o fluxo de trabalho normal para instalá-la é simplesmente abrir a lâmpada e 
 
 331
 00:31:52,289 --> 00:31:57,299
-die Kontakte anlötet und so weiter und da
-hört bei den meisten Leuten auf. Jetzt
+soldar os contatos... 
+Mas isso é muito difícil para a maioria. Agora 
 
 332
 00:31:57,299 --> 00:32:02,830
-können wir aber auch mit der Methode wie
-ich sie gezeigt habe natürlich auch eine
+também podemos usar o método 
+que mostrei para instalar
 
 333
 00:32:02,830 --> 00:32:07,039
-andere Firmware in die Lampe flashen um
-sie eben ohne die Cloud betreiben zu
+um firmware diferente na lâmpada
+para que possamos operá-la sem a nuvem.
 
 334
 00:32:07,039 --> 00:32:10,590
-können. Und wie gesagt,ich werde es dann
+Und wie gesagt,ich werde es dann
 auch veröffentlichen da kann dann jeder
 
 335
