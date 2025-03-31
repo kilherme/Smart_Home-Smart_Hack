@@ -2223,17 +2223,17 @@ luz me diz que a internet tem uma pergunta.
 
 442
 00:42:05,540 --> 00:42:08,122
-Lieber Signalengel.
+Caro Signalengel.
 
 443
 00:42:08,122 --> 00:42:11,710
-Signalengel: Ja die Frage: Welche
-Alternative zur Klartextablage des Wlan-
+Signalengel: Sim, a pergunta é: 
+qual alternativa ao 
 
 444
 00:42:11,710 --> 00:42:15,760
-Passworts bzw. des relevanten Schlüssels
-siehst du?
+armazenamento
+da senha do Wi-Fi em texto simples?
 
 445
 00:42:15,760 --> 00:42:21,060
@@ -2267,8 +2267,8 @@ Herald: Ok, Dankeschön. Ich nehme erst mal
 
 451
 00:42:47,830 --> 00:42:51,920
-das Mikro Nr. 7. Da wartet schon jemand
-länger. Die Frage bitte.
+das Mikro Nr. 7. Alguém está esperando 
+há mais tempo. A pergunta, por favor.
 
 452
 00:42:51,920 --> 00:42:55,310
