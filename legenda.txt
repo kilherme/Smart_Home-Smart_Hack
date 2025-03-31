@@ -1976,13 +1976,13 @@ Michael: Para ser sincero,
 
 392
 00:37:49,570 --> 00:37:52,470
-não procurei mais. Ich habe nur..
-Dadurch dass es Open-Source ist kann
+não procurei mais. Eu só..
+Como é de código aberto, qualquer um 
 
 393
 00:37:52,470 --> 00:37:59,200
-natürlich jeder da reinprogrammieren was
-er möchte und hat da volle Kontrolle. Und
+pode programar o que quiser e 
+tem controle total. Und
 
 394
 00:37:59,200 --> 00:38:02,610
