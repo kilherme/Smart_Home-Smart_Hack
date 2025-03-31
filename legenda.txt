@@ -2368,12 +2368,12 @@ lokal mit dem Handy zu steuern.
 
 471
 00:44:28,710 --> 00:44:36,330
-Herald: Ok, Dankeschön. Ich würde sagen
-drei Fragen machen wir noch.
+Herald: Ok, obrigado. Eu diria que
+temos mais três perguntas.
 
 472
 00:44:36,330 --> 00:44:38,630
-Michael: ja gerne.
+Michael: Sim, por favor
 Herald: Ok, dann hier vorne die 1 bitte.
 
 473
@@ -2383,32 +2383,32 @@ Sicherheit auf der Serverseite von diesem
 
 474
 00:44:42,870 --> 00:44:47,050
-Cloud-Anbieter ist. Also ob man da was
-machen kann, ob man in die Daten von
+Cloud-Anbieter ist. Então, se  
+pode fazer algo a respeito, se  
 
 475
 00:44:47,050 --> 00:44:52,130
-Fremdgeräten kommt und ob man
-potentiell über das MQTT mit fremden
+pode acessar os dados de dispositivos 
+de terceiros e se pode potencialmente 
 
 476
 00:44:52,130 --> 00:44:55,900
-Devices sprechen kann.
-Michael: Also ich hab mal probiert einen
+falar com dispositivos de terceiros via MQTT.
+Michael: Então tentei enviar um MQTT para 
 
 477
 00:44:55,900 --> 00:44:59,900
-MQTT zu einem anderen Device zu schicken.
-Das hat nicht funktioniert aber ich habe
+falar com dispositivos de terceiros 
+via MQTT. Isso não funcionou, 
 
 478
 00:44:59,900 --> 00:45:05,620
-auch nicht weiter geschaut, also nicht so
-genau und auch nicht probiert um
+mas não procurei muito, nem 
+muito de perto, e não tentei 
 
 479
 00:45:05,620 --> 00:45:09,440
-irgendwelche Accounts zu kapern.
+sequestrar nenhuma conta.
 Mikro 1: Danke.
 
 480
