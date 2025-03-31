@@ -2057,62 +2057,62 @@ Cloud-Plattform und die Dashboards
 
 409
 00:39:18,700 --> 00:39:23,220
-hergegeben haben. Kannst du uns vielleicht
-ein bisschen mehr dazu sagen welche
+hergegeben haben. Você poderia nos 
+contar um pouco mais sobre outros
 
 410
 00:39:23,220 --> 00:39:27,020
-Produkte der Hersteller noch herstellt und
-verkauft außer von Glühbirnen.
+produtos que o fabricante produz
+e vende além de lâmpadas?
 
 411
 00:39:27,020 --> 00:39:31,400
-Michael: Also es gibt wirklich alles. Es
-ist nicht ein Hersteller das ist eben
+Michael: Então realmente tem de 
+tudo. Não é apenas um fabricante, 
 
 412
 00:39:31,400 --> 00:39:34,910
-genau das Schlimme daran deswegen kann man
-ja auch nicht einfach so nennen das sind
+é exatamente isso que é ruim, 
+é por isso que você não pode simplesmente 
 
 413
 00:39:34,910 --> 00:39:38,250
-10000 verschiedene Hersteller die eben
-genau diese Technologie einfach einsetzen
+chamá-lo assim, eles estão apenas 
+usando essa tecnologia e ela está 
 
 414
 00:39:38,250 --> 00:39:44,090
-und die sind wirklich weltweit überall das
-heißt es gibt deutsche Hersteller, die
+realmente em todo lugar do mundo, 
+o que significa que há fabricantes
 
 415
 00:39:44,090 --> 00:39:47,260
-diese Technologie benutzen und man denkt
-man kauft ein deutsches Produkt.
+alemães que usam essa tecnologia e 
+você acha que está comprando um produto alemão.
 
 416
 00:39:47,260 --> 00:39:53,500
-Tatsächlich steckt aber das drin. Und
-Produkte gibts auch alles. Ich habe von
+Mas é isso que realmente tem lá dentro. E 
+os produtos também estão disponíveis. Tem 
 
 417
 00:39:53,500 --> 00:40:00,170
-Küchengeräten, Kühlschränke und so weiter.
-Der Hersteller nennt 30 verschiedene
+eletrodomésticos de cozinha, geladeiras etc
+O fabricante lista 30 categorias diferentes.
 
 418
 00:40:00,170 --> 00:40:05,440
-Kategorien. Es ist tatsächlich fast
-überall drin. Für mich war die Glühbirne
+Na verdade, está em quase tudo. 
+Para mim, a lâmpada foi 
 
 419
 00:40:05,440 --> 00:40:10,690
-das einfachste und auch diese elektrischen
-Steckdosen weil sie einfach sehr populär
+a mais fácil e também esses soquetes 
+elétricos porque eles são bem 
 
 420
 00:40:10,690 --> 00:40:16,730
-sind und überall eingesetzt werden.
+populares e usados ​​em todos os lugares.
 Herald: Ich würde jetzt gern mit Mikro
 
 421
@@ -2157,7 +2157,7 @@ Mikro 2: Não sou programador,
 
 429
 00:40:59,990 --> 00:41:04,710
- mas isso não melhora minhas noites,
+mas isso não melhora minhas noites,
 então minha pergunta é: 
 
 430
