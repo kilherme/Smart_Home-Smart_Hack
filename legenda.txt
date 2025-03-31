@@ -1424,38 +1424,38 @@ um script que descriptografa todos os
 
 281
 00:26:46,011 --> 00:26:54,220
-comandos em tempo real. Dann gibt's noch
-das bettercap, das eben die Anfragen
+comandos em tempo real. Depois, há o 
+bettercap, que altera as solicitações,
 
 282
 00:26:54,220 --> 00:27:00,080
-verändert und unten rechts sehen wir ein
-Terminal, in dem wir eigentlich nur die
+ e no canto inferior direito vemos um 
+terminal no qual, na verdade, vemos  
 
 283
 00:27:00,080 --> 00:27:07,909
-die seriellen Ausgaben der Lampe sieht und
-die hab ich jetzt gestartet und danach
+a saída serial da lâmpada, e eu o 
+iniciei agora, e então enviarei 
 
 284
 00:27:07,909 --> 00:27:14,680
-sende ich mit dem letzten Befehl unten
-noch einfach mal den Trigger Request. Und
+a solicitação de gatilho com o 
+último comando abaixo. E 
 
 285
 00:27:14,680 --> 00:27:23,809
-dann sollte man sehen wie die, ja genau
-jetzt kommt der Request und jetzt kommen
+então você deve ver como,
+agora mesmo a solicitação está 
 
 286
 00:27:23,809 --> 00:27:29,080
-überall Anfragen und die Lampe bootet neu
-und es ist eine neue Firmware drauf, also
+chegando e agora as solicitações estão 
+chegando de todos os lugares e a lâmpada está reiniciando
 
 287
 00:27:29,080 --> 00:27:39,409
-geht ganz schnell. Genau so jetzt ging es
-um die Firmware, die draufgeht. Eu disse
+e há um novo firmware nela, então bem rápido.Agora
+esta rodando... Eu disse
 
 288
 00:27:39,409 --> 00:27:44,570
