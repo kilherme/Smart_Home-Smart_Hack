@@ -1937,22 +1937,21 @@ Vamos. Vamos começar por aí.
 384
 00:37:13,140 --> 00:37:18,280
 Mikro 2 bitte.
-Mikro 2: Ist MQTT jetzt verschlüsselt,
+Mikro 2: O MQTT agora é criptografado 
 
 385
 00:37:18,280 --> 00:37:20,490
-oder nicht ? Ich habe es nicht ganz
-verstanden.
+ou não? Não entendi muito bem.
 
 386
 00:37:20,490 --> 00:37:25,540
-Michael: MQTT ist verschlüsselt. Ist mit
-AES verschlüsselt und mit dem Local-Key,
+Michael: O MQTT é criptografado. É 
+criptografado com AES e com a chave local,
 
 387
 00:37:25,540 --> 00:37:29,570
-den man über den HTTP Befehl in Klartext
-angezeigt bekommt.
+que é exibido em texto simples por meio 
+do comando HTTP.
 
 388
 00:37:29,570 --> 00:37:35,430
