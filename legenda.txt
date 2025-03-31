@@ -2218,8 +2218,8 @@ lieber was mit einem bekannten Namen kaufen.
 
 441
 00:42:00,150 --> 00:42:05,540
-Herald: Ok, danke. Ich sehe ein Licht. Ein
-Licht sagt mir das Internet hat ne Frage.
+Herald: Ok, obrigado. Eu vejo a luz. Uma 
+luz me diz que a internet tem uma pergunta.
 
 442
 00:42:05,540 --> 00:42:08,122
@@ -2272,88 +2272,89 @@ länger. Die Frage bitte.
 
 452
 00:42:51,920 --> 00:42:55,310
-Mikro 7: Ja das ist jetzt fast eher eine
-Anmerkung. Zudem...
+Mikro 7: Sim, isso é quase 
+um comentário. Além disso...
 
 453
 00:42:55,310 --> 00:42:58,670
-Herald: Das tut mir leid aber wir nehmen
-leider keine Anmerkungen. Wenn du eine
+Herald: Desculpe, mas infelizmente 
+não aceitamos comentários.Caso 
 
 454
 00:42:58,670 --> 00:43:02,690
-Frage hast dann melde dich bitte mit einer
-Frage. Kommentare möchten wir bitte nicht.
+tenha alguma dúvida, entre em contato conosco.
+Não queremos comentários.
 
 455
 00:43:02,690 --> 00:43:06,680
-Dankeschön. Dann Mikro Nummer 8.
+Obrigado. Dann Mikro Nummer 8.
 Bitteschön, danke.
 
 456
 00:43:06,680 --> 00:43:12,980
-Mikro 8: Der MQTT-Request geht ja direkt
-an den Cloudhersteller oder?
+Mikro 8: A solicitação MQTT vai diretamente 
+para o provedor de nuvem, certo?
 
 457
 00:43:12,980 --> 00:43:18,920
-Michael: Genau, also die MQTT ist im
-Endeffekt das Protokoll das verwendet wird
+Michael: Exatamente, então o MQTT é, 
+em última análise, o protocolo usado 
 
 458
 00:43:18,920 --> 00:43:24,050
-um aus dem Internet ins lokale Netzwerk zu
-kommen und da wird quasi ein MQTT Tunnel
+para transferir dados da Internet para a 
+rede local e há basicamente um túnel MQTT 
+
 
 459
 00:43:24,050 --> 00:43:29,681
-aufgestellt und es gibt ein Topic das
-quasi subscribed wird von der Lampe selbst
+configurado e há um tópico que é 
+basicamente assinado pela própria 
 
 460
 00:43:29,681 --> 00:43:34,590
-wo es quasi Befehle annimmt. Und einer der
-verwendet wird um Publishes zu machen wo
+lâmpada, onde ela basicamente aceita comandos. 
+E um que é usado para fazer publicações
 
 461
 00:43:34,590 --> 00:43:40,140
-Statusmeldung rausgehen.
-Herald: Ok danke, wir haben noch eine
+onde as mensagens de status são enviadas.
+Herald: Ok obrigado, nós temos uma
 
 462
 00:43:40,140 --> 00:43:44,550
-Frage auf der 5, die wartet schon
-länger, Bitteschön.
+pergunta nº 5, obrigado por esperar
+tanto.
 
 463
 00:43:44,550 --> 00:43:50,080
-Mikro 5: Danke sehr, gibt es irgendwelche
-Einschränkungen wenn ich ein Internet of
+Mikro 5: Muito obrigado. Há alguma 
+restrição se eu configurar uma WLAN 
 
 464
 00:43:50,080 --> 00:43:53,300
-Things WLAN aufbaue mit sehr
-eingeschränktem Internetzugang?
+de Internet das Coisas com 
+acesso muito limitado à Internet?
 
 465
 00:43:53,300 --> 00:44:01,250
-Michael: Es ist tatsächlich möglich auch
-mit der Firmware die drauf ist einen
+Michael: Na verdade, é possível rodar
+localmente, mesmo com o firmware 
 
 466
 00:44:01,250 --> 00:44:04,730
-lokalen Betrieb zu machen. Ich glaube
-nicht mit allen Geräten die ich getestet
+instalado nele. Não creio que seja
+assim com todos os dispositivos 
 
 467
 00:44:04,730 --> 00:44:12,810
-habe, aber die Lampe ist noch auf dem Port
-6668 offen; nimmt da sehr ähnliche Befehle
+que testei, mas a lâmpada ainda está 
+aberta na porta 6668; aceita comandos m
 
 468
 00:44:12,810 --> 00:44:19,300
-an und man kann sie quasi auch damit
-selbst steuern. Auch mit dem selben local
+uito semelhantes e você pode controlá-lo 
+sozinho. Auch mit dem selben local
 
 469
 00:44:19,300 --> 00:44:23,780
