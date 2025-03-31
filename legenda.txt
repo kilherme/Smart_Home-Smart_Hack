@@ -1117,7 +1117,7 @@ que contém muitos erros,
 219
 00:20:23,440 --> 00:20:27,380
 mas também documenta parcialmente 
-partes muito importantes, como criptografia..
+partes muito importantes, como criptografia.
 
 220
 00:20:27,380 --> 00:20:33,740
@@ -1419,12 +1419,12 @@ outro lado, tem um HTTP-Server
 
 280
 00:26:40,980 --> 00:26:46,011
-gestartet auf dem mein Binary liegt und
-ein Script, das mir alle Kommandos in
+iniciado e que meu binário está localizado e 
+um script que descriptografa todos os 
 
 281
 00:26:46,011 --> 00:26:54,220
-Realtime entschlüsselt. Dann gibt's noch
+comandos em tempo real. Dann gibt's noch
 das bettercap, das eben die Anfragen
 
 282
@@ -1455,76 +1455,76 @@ und es ist eine neue Firmware drauf, also
 287
 00:27:29,080 --> 00:27:39,409
 geht ganz schnell. Genau so jetzt ging es
-um die Firmware, die draufgeht. Ich habe
+um die Firmware, die draufgeht. Eu disse
 
 288
 00:27:39,409 --> 00:27:44,570
-euch gesagt, ich wollte ein Proof-of-
-Concept machen von einem Trojaner. Was
+que queria fazer uma prova 
+de conceito de um Trojan.O que
 
 289
 00:27:44,570 --> 00:27:48,279
-macht der Trojaner? Ganz einfach, der
-verbindet sich zu meinem eigenen Server
+faz um Trojan? Bem simples, Ele 
+se conecta ao meu próprio servidor, 
 
 290
 00:27:48,279 --> 00:27:54,190
-der irgendwo extern im Internet steht,
-schickt die WLAN Credentials und öffnet
+que está localizado em algum lugar 
+externo na Internet, envia as credenciais
+
 
 291
 00:27:54,190 --> 00:28:00,299
-noch einen Reverse Tunnel über den ich
-dann zurück in das lokale Netzwerk gehe.
+da WLAN e abre um túnel reverso 
+pelo qual então retorno à rede local.
 
 292
 00:28:00,299 --> 00:28:04,340
-Der agiert bei mir in meiner
-Implementation einfach als HTTP oder Socks
+Na minha implementação, ele simplesmente 
+atua como um proxy HTTP ou Socks,
 
 293
 00:28:04,340 --> 00:28:10,799
-Proxy, d.h. man kann einfach irgendeinen
-Browser nehmen, gibt die von meinem
+ou seja, você pode simplesmente 
+usar qualquer navegador, 
 
 294
 00:28:10,799 --> 00:28:19,710
-externen Server die IP-Adresse ein und den
-Port und ist dann im lokalen Netzwerk des
+digitar o endereço IP e a porta do meu
+servidor externo e então estará na rede local do operador 
 
 295
 00:28:19,710 --> 00:28:25,260
-Lampenbetreibers. Das Ganze war mir noch
-sehr wichtig, dass es transparent ist,
+da lâmpada. Também era muito importante 
+para mim que tudo fosse transparente, 
 
 296
 00:28:25,260 --> 00:28:30,659
-d.h. der Nutzer der Lampe bekommt das
-überhaupt nicht mit und die ganz normale
+ou seja, que o usuário da lâmpada 
+não percebesse nada e a função normal 
 
 297
 00:28:30,659 --> 00:28:36,510
-Lampenfunktion ist noch genauso gegeben
-wie vorher. Hier habe ich auch eine kleine
+da lâmpada continuasse a mesma de antes.
+Também tenho um pequeno demo aqui.
 
 298
 00:28:36,510 --> 00:28:42,799
-Demo davon. Oben habe ich wieder das
-Terminal der Lampe selbst; dann hab ich
+Acima tenho o terminal da própria lâmpada; 
 
 299
 00:28:42,799 --> 00:28:48,370
-mal auf meinem Server selbst einen Proxy
-Forwarder, ist auch ein kleines Python
+Então eu tenho um proxy forwarder no meu 
+servidor, que também é um pequeno 
 
 300
 00:28:48,370 --> 00:28:55,211
-Script, und unten hab ich irgendwo im
-Internet dann einen Rechner, das sehen wir
+script Python, e abaixo eu tenho um computador 
+em algum lugar na Internet, veremos isso 
 
 301
 00:28:55,211 --> 00:29:00,279
-jetzt gleich. Então eu fiz uma
+em breve. Então eu fiz uma
 simples consulta de IP. Agora 
 
 302
@@ -1534,37 +1534,38 @@ e faço uma consulta do IP abaixo,
 
 303
 00:29:07,919 --> 00:29:13,620
-isso é também um IP externo, ist in dem
-Fall 213 irgendwas; jetzt mache ich das
+isso é também um IP externo, 
+neste caso 213 é alguma coisa;agora faço 
 
 304
 00:29:13,620 --> 00:29:22,639
-Gleiche mit dem Proxy, genau da habe ich
-jetzt einfach meinen eigenen Proxy noch
+o mesmo com o proxy, Foi exatamente 
+aí que eu adicionei meu próprio proxy e, 
 
 305
 00:29:22,639 --> 00:29:26,830
-mit reingesetzt und sehe auf einmal dass
-bei der Lampe selbst die Anfrage kommt und
+de repente, posso ver que a solicitação está vindo 
+da própria lâmpada e, de repente, o 
+
 
 306
 00:29:26,830 --> 00:29:33,419
-auf einmal die lokale IP der Lampe
-gesendet wird, und dann wollte ich noch
+IP local da lâmpada está sendo enviado, 
+e então eu queria acessar algo na rede 
 
 307
 00:29:33,419 --> 00:29:40,249
-zum Test mal im internen Netzwerk was
-zugreifen und habe jetzt einfach mal auf
+interna para testá-lo e agora 
+simplesmente mudei para o fritz.box
 
 308
 00:29:40,249 --> 00:29:47,639
-fritz.box eine Abfrage gestellt und konnte
-somit sehen dass in dem Netzwerk auch eine
+fiz uma consulta e consegui 
+ver que também havia um Fritzbox na rede.
 
 309
 00:29:47,639 --> 00:29:56,259
-Fritzbox drin ist. Also das heißt, man
+Fritzbox na rede. Also das heißt, man
 kann mit dem Proxy nicht nur den Internet
 
 310
@@ -2013,12 +2014,12 @@ laufen lassen?
 
 400
 00:38:33,140 --> 00:38:35,060
-Michael: Das ist natürlich eine sehr
+Michael: É claro que essa é uma 
 
 401
 00:38:35,060 --> 00:38:40,420
-interessante Idee und man kann da noch
-viel mehr damit machen. Teoricamente, você pode
+ideia muito interessante e pode-se 
+fazer muito mais com ela.Teoricamente, você pode
 
 402
 00:38:40,420 --> 00:38:44,970
