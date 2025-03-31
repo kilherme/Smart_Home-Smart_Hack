@@ -1370,7 +1370,7 @@ com alguns pequenos scripts. Isso significa,
 270
 00:25:42,600 --> 00:25:49,669
 fala-se que a atualização esta pronta
-por Strings em resapostas-HTTP então 
+por Strings em respostas-HTTP então 
 
 271
 00:25:49,669 --> 00:25:54,600
@@ -2138,76 +2138,77 @@ Michael: Nee, das weiß ich nicht aber ich
 425
 00:40:36,180 --> 00:40:41,610
 weiß auch nicht ob die von Haus aus diese
-Cloud benutzen. Hab ich nicht gemacht. Ich
+Cloud benutzen. Hab ich nicht gemacht. 
 
 426
 00:40:41,610 --> 00:40:47,690
-glaube dass es einfach nur eine Open-
-Source Hardware ist auf der jetzt nichts
+Acho que é apenas hardware de 
+código aberto que não executa nada 
 
 427
 00:40:47,690 --> 00:40:53,390
-von dem Anbieter selbst läuft.
-Herald: Ok danke, dann nehmen wir das
+do próprio fornecedor.
+Herald: Ok obrigado, então vamos para a próxima
 
 428
 00:40:53,390 --> 00:40:59,990
-nächste Mikro Nr. 2 bitte.
-Mikro 2: Ich bin kein Programmierer, meine
+pergunta, número 2, por favor.
+Mikro 2: Não sou programador,
 
 429
 00:40:59,990 --> 00:41:04,710
-Nächte werden deswegen aber auch nicht
-besser und deswegen meine Frage einmal
+ mas isso não melhora minhas noites,
+então minha pergunta é: 
 
 430
 00:41:04,710 --> 00:41:08,820
-raus in die Welt an die Bildschirme,
-welchen Tipp gibst du? Nicht im fernen
+no mundo das telas, 
+que conselho você tem? Não compra 
 
 431
 00:41:08,820 --> 00:41:13,360
-Osten kaufen? Nur Markenware?
-Michael: Es ist natürlich relativ
+da China? Somente produtos de marca?
+Michael: Obviamente é muito 
 
 432
 00:41:13,360 --> 00:41:18,520
-schwierig was zu nennen weil man weiß
-natürlich nie was drin steckt und wie ich
+difícil dizer o que tem nele porque 
+você nunca sabe o que tem nele e, 
 
 433
 00:41:18,520 --> 00:41:24,100
-gesagt habe es gibt auch deutsche
-Hersteller die das benutzen. Ich hab mir
+como eu disse, também há fabricantes 
+alemães que o usam. Ainda não olhei 
 
 434
 00:41:24,100 --> 00:41:28,960
-die Konkurrenzprodukte noch nicht
-angeschaut und kann deswegen auch nicht
+para os produtos dos concorrentes
+só esse, assim, não posso dizer o que comprar,
 
 435
 00:41:28,960 --> 00:41:32,840
-sagen was man kaufen soll aber für mich
-ist natürlich auch ein Tipp eigene
+mas para mim é claro que 
+é bom usar seu próprio 
 
 436
 00:41:32,840 --> 00:41:37,700
-Firmware zu verwenden und auch namhafte
-Hersteller weil die ganz andere Sachen zu
+firmware e também o fabricante ser conhecido, 
+porque eles têm muito mais
 
 437
 00:41:37,700 --> 00:41:44,700
-verlieren haben. Also wenn jetzt eine
-kleine Firma aus Fernost die machen
+a perder do que uma
+pequena empresa Asiatica 
+
 
 438
 00:41:44,700 --> 00:41:48,320
-einfach unter verschiedenen Namen Firmen
-auf und danach ist es egal ob da
+que cria empresas com nomes diferentes 
+e não importa se elas causam algum
 
 439
 00:41:48,320 --> 00:41:53,520
-irgendwelche Hacks oder Sachen rauskommen.
+tipo de hack ou outras coisas.
 Wenn da große Namen hinten dran stehen ist
 
 440
