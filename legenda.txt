@@ -485,7 +485,7 @@ e se então por exemplo: user 1 é
 
 97
 00:09:03,379 --> 00:09:08,089
-inicializado, o usuário 2 pode
+inicializado, o usur 2 pode
 ser sobrescrito e revertido
 
 98
@@ -659,18 +659,17 @@ Geralmente é um número de telefone celular,
 130
 00:12:05,339 --> 00:12:10,160
 caso você tenha se registrado com seu 
-telefone celular. Oder es stehen zum
+telefone celular. 
 
 131
 00:12:10,160 --> 00:12:15,709
-Ou, por exemplo, há também as coordenadas 
+Também há as coordenadas 
 e onde você esta. Agora não sei o porque 
 
 132
 00:12:15,709 --> 00:12:22,079
 o fabricante ou o revendedor
 Preciso saber onde minha lâmpada 
-
 
 133
 00:12:22,079 --> 00:12:29,569
@@ -742,7 +741,7 @@ Que não é possível usar esses
 
 146
 00:13:39,440 --> 00:13:46,709
-dispositivos IoT sem a nuvem e atroca 
+dispositivos IoT sem a nuvem e a troca 
 de dados. E eles me garantiram 
 
 147
@@ -957,23 +956,23 @@ vendê-los: você pode comprar
 
 188
 00:17:26,800 --> 00:17:31,500
-muitos e pegar o lucro. Man kann
-... im Gebrauchtmarkt muss man sehr
+muitos e pegar o lucro. Você
+que ter muito cuidado no 
 
 189
 00:17:31,500 --> 00:17:35,121
-aufpassen ,weil man nie weiß was drin ist.
-Und der junge Herr zum Beispiel hat von
+mercado de usados ​​porque você 
+nunca sabe o que tem dentro. 
 
 190
 00:17:35,121 --> 00:17:40,309
-mir eine geschenkt bekommen. Das ist
-natürlich noch eine andere Möglichkeit
+E esse jovem, recebeu um de presente meu. 
+Esta é, naturalmente, outra maneira 
 
 191
 00:17:40,309 --> 00:17:48,950
-auch, solche Geräte in den Verkehr zu
-bringen. Agora terminou meu
+de colocar tais dispositivos 
+em circulação.Agora terminou meu
 
 192
 00:17:48,950 --> 00:17:53,919
@@ -1008,8 +1007,8 @@ prova real de conceito do Trojan.
 
 198
 00:18:21,269 --> 00:18:27,360
-Und das heißt es ging jetzt für mich
-nochmal eine Runde weiter. Então,
+E isso significa que agora era 
+mais uma rodada para mim. Então,
 
 
 199
