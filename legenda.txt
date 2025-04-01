@@ -1343,27 +1343,27 @@ publicarei tudo mais tarde.
 
 265
 00:25:07,259 --> 00:25:12,360
-Punkt war das Ändern der Upgrade-Quelle;
-hierzu habe ich ein fertiges Tool benutzt
+O objetivo era mudar a fonte de atualização;
+Para isso usei uma ferramenta pronta
 
 266
 00:25:12,360 --> 00:25:19,419
-das heißt bettercap; damit kann man HTTP-
-Requests einfach in Realtime ändern. Und
+chamada bettercap; Ela permite que 
+altere solicitações HTTP em tempo real. E
 
 267
 00:25:19,419 --> 00:25:26,009
-da ich ja eh Kali Linux als Access Point
-benutzt habe, konnte ich auch relativ gut
+E como eu estava usando o Kali 
+como ponto de acesso de qualquer maneira, 
 
 268
 00:25:26,009 --> 00:25:33,110
-dran und habe quasi dann in die URL und in
-den MD5 einfach die Daten meiner neuen
+consegui acessá-lo com relativa facilidade
+e simplesmente escrevi os dados do meu novo
 
 269
 00:25:33,110 --> 00:25:42,600
-Firmware geschrieben. E isso pode ser feito 
+firmware na URL e no MD5. E isso pode ser feito 
 com alguns pequenos scripts. Isso significa,
 
 270
@@ -2354,17 +2354,19 @@ aberta na porta 6668; aceita comandos m
 468
 00:44:12,810 --> 00:44:19,300
 uito semelhantes e você pode controlá-lo 
-sozinho. Auch mit dem selben local
+sozinho. Os dados são então criptografados 
 
 469
 00:44:19,300 --> 00:44:23,780
-key werden die Daten dann verschlüsselt
-und das heißt ist es auch möglich wenn man
+com a mesma chave local
+Isso significa que se você desligar 
+a internet da própria lâmpada, 
+
 
 470
 00:44:23,780 --> 00:44:28,710
-der Lampe selbst das Internet abstellt die
-lokal mit dem Handy zu steuern.
+também será possível controlá-la l
+ocalmente com seu celular.
 
 471
 00:44:28,710 --> 00:44:36,330
@@ -2414,17 +2416,16 @@ Microfone 1: Danke.
 480
 00:45:09,440 --> 00:45:14,040
 Herald: Certo, temos um pouco mais de tempo. 
-Deswegen wir machen noch ein paar
+É por isso que faremos mais algumas perguntas,
 
 481
 00:45:14,040 --> 00:45:18,330
-Fragen mehr wenn Dir das recht ist
-Michael. Ok, dann würde ich jetzt den
+se estiver tudo bem para você.
+Michael. Ok, eu deixo o
 
 482
 00:45:18,330 --> 00:45:19,880
-Signalengel nochmal einen leuchten
-lassen.
+Signalengel brilhar novamente.
 
 483
 00:45:19,880 --> 00:45:25,380
@@ -2439,37 +2440,37 @@ automáticas, você estará vulnerável; se não
 485
 00:45:30,470 --> 00:45:34,660
 fizer, nunca será corrigido.
-Michael: Ja also eigentlich ist das eine
+Michael: Sim, na verdade essa é uma 
 
 486
 00:45:34,660 --> 00:45:40,570
-sehr schwere Frage weil man wirklich das
-schlecht realisieren kann aber trotzdem
+spergunta muito difícil porque é muito 
+difícil de implementar, mas ainda acho 
 
 487
 00:45:40,570 --> 00:45:45,070
-denke ich dass es Möglichkeiten gibt wo
-dann zum Beispiel das Update von der App
+que há possibilidades onde, por exemplo, 
+a atualização vem do aplicativo e então
 
 488
 00:45:45,070 --> 00:45:50,011
-kommt und die dann so ist dass der User
-definitiv Kontrolle darüber hat und das
+é tal que o usuário definitivamente 
+tem controle sobre ela e está 
 
 489
 00:45:50,011 --> 00:45:55,410
-auch mitbekommt. Natürlich ist es immer
-eine Implementationsache und relativ
+ciente disso. Claro, é sempre uma 
+questão de implementação e 
 
 490
 00:45:55,410 --> 00:46:00,520
-schwierig Updates anzubieten für solche
-Geräte.
+relativamente difícil oferecer 
+atualizações para esses dispositivos.
 
 491
 00:46:00,520 --> 00:46:07,740
-Herald: Ok, ich glaube microfone 7 ist noch
-jemand. Deine Frage bitte.
+Herald: Ok, acho que o microfone 7 
+está com uma pessoa. Sua pergunta, por favor.
 
 492
 00:46:07,740 --> 00:46:09,920
@@ -2499,43 +2500,43 @@ Michael: Ja, hier vorne.
 
 497
 00:46:23,040 --> 00:46:30,450
-Herald: Ah ok, die 3 Bitteschön, danke.
-microfonefon 3: Thank you, so this cleartext
+Herald: Ah, ok, aqui estão os 3, obrigado.
+microfonefon 3: Obrigado, que frequência
 
 498
 00:46:30,450 --> 00:46:37,690
-local key of HTTP how often is it sent?
-Only the first time or does it send more
+essa chave local em texto simples do HTTP é enviada?
+Só na primeira vez ou ele envia 
 
 499
 00:46:37,690 --> 00:46:40,750
-often?
-Michael: This is basically only during the
+com mais frequência?
+Michael: Isso acontece basicamente 
 
 500
 00:46:40,750 --> 00:46:49,900
-registration but there's more clear
-messages. I mean HTTP in general is not
+apenas durante o registro, mas há 
+mensagens mais claras. Quero dizer que 
 
 501
 00:46:49,900 --> 00:46:57,590
-encrypted when the cloud sends something
-to the bulb. But the keys are only
+o HTTP em geral não é criptografado quando
+a nuvem envia algo para a lâmpada.
 
 502
 00:46:57,590 --> 00:47:07,250
-transmitted during activation.
-Herald: Ok, vielen Dank. Wir haben da noch
+Mas as chaves só são transmitidas durante a ativação.
+Herald:Certo, obrigado. Ainda temos 
 
 503
 00:47:07,250 --> 00:47:16,090
-ein Licht. Deine Frage bitte noch.
-Signalangel: Ist der Sprecher bereits
+uma luz lá. Sua pergunta, por favor.
+Signalangel: O palestrante 
 
 504
 00:47:16,090 --> 00:47:26,464
-einem sicheren IOT-Gegenstand begegnet?
-Michael: Vielleicht aber nicht meines Wissens.
+já encontrou um objeto IoT seguro?
+Michael: Talvez, mas não que eu saiba.
 
 505
 00:47:26,464 --> 00:47:34,621
@@ -2543,26 +2544,26 @@ Michael: Vielleicht aber nicht meines Wissens.
 
 506
 00:47:34,621 --> 00:47:36,360
-Herald: microfone 3 Bitteschön.
+Herald: microfone 3 por favor.
 
 507
 00:47:36,360 --> 00:47:44,190
-microfone 3: Gibt es Anzeichen dass die Daten
-der User verkauft werden? Und wenn nein
+microfone 3: Há alguma indicação de que os 
+dados estão sendo vendidos? E se não, 
 
 508
 00:47:44,190 --> 00:47:48,780
-wie leicht könnte man das rauskriegen?
-Also ich denke an einen Talk den es hier Mal
+quão fácil seria descobrir?
+Então estou pensando em uma palestra 
 
 509
 00:47:48,780 --> 00:47:54,210
-gab, der hieß build your own NSA. Da
-hat ne Fakefirma die Daten versucht zu
+que aconteceu  chamada "construa sua própria NSA". 
+Uma empresa falsa tentou comprar os dados.
 
 510
 00:47:54,210 --> 00:47:59,320
-kaufen. Also das wär ja möglich.
+Então isso seria possível.
 Michael: Então, qualquer coisa que dissesse 
 
 511
@@ -2691,16 +2692,17 @@ Signalengel: Desculpe, não,
 536
 00:49:54,180 --> 00:49:57,810
 não é outra pergunta da internet.
-Herald: Ok, dann würde ich sagen wir haben
+Herald: Certo, então eu diria 
+
 
 537
 00:49:57,810 --> 00:50:02,190
-auf der 1 noch eine Frage und dann kann
-man auch langsam Schluss machen. Deine
+que temos mais uma pergunta sobre o 
+número 1 e então podemos finalmente encerrar o dia. 
 
 538
 00:50:02,190 --> 00:50:04,940
-Frage bitte.
+Sua pergunta por favor.
 Microfone 1: Foi dito que também 
 
 539
