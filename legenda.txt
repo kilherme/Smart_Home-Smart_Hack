@@ -2041,22 +2041,22 @@ CPU sejam muito limitadas.
 
 406
 00:38:58,880 --> 00:39:08,790
-Herald: Ok, Ich denke mal wir nehmen jetzt die
-nächste Frage Mikro 1 nochmal.
+Herald: Ok, acho que vamos pegar o
+próxima pergunta, microfone 1 novamente.
 
 407
 00:39:08,790 --> 00:39:14,380
-Mikro 1: Du hattest am Anfang des Vortrags
-gesagt, das ist ein sehr bekannter und
+Mikro 1: Você disse no início da 
+apresentação que este é um fabricante
 
 408
 00:39:14,380 --> 00:39:18,700
-namhafter Hersteller, was allein die
-Cloud-Plattform und die Dashboards
+ muito conhecido e respeitável,
+com base apenas na plataforma de nuvem 
 
 409
 00:39:18,700 --> 00:39:23,220
-hergegeben haben. Você poderia nos 
+e nos painéis. Você poderia nos 
 contar um pouco mais sobre outros
 
 410
@@ -2236,32 +2236,33 @@ da senha do Wi-Fi em texto simples?
 
 445
 00:42:15,760 --> 00:42:21,060
-Michael: Naja, in Wirklichkeit rausfinden
-tut mans immer das ist mir auch bewusst
+Michael:Bem, na realidade você sempre 
+pode descobrir, mas é claro que não 
 
 446
 00:42:21,060 --> 00:42:25,650
-aber es muss natürlich nicht so obvious
-sein weil wenn man wirklich nur das Binary
+precisa ser tão óbvio,eu sei disso, 
+porque se você realmente apenas ler 
+
 
 447
 00:42:25,650 --> 00:42:31,170
-ausliest und danach den Klartext Schlüssel
-hat dann ist es natürlich sehr verdächtig
+o binário e tiver a chave de texto simples,
+é claro que é muito suspeito e 
 
 448
 00:42:31,170 --> 00:42:35,250
-und man findet schon beim Durchscrollen
-durchs Binary oder wenn man einfach
+você o encontrará ao percorrer 
+o binário ou quando simplesmente 
 
 449
 00:42:35,250 --> 00:42:41,310
-strings eingibt. Wenn man alleine nur was
-drüber xored hätte wäre es schon nicht so
+inserir strings. Se você tivesse
+apenas passado algo por cima, 
 
 450
 00:42:41,310 --> 00:42:47,830
-auffällig wie es tatsächlich wirklich ist.
+não seria tão perceptível quanto realmente é.
 Herald: Ok, Dankeschön. Ich nehme erst mal
 
 451
