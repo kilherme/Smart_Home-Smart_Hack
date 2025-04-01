@@ -2413,8 +2413,8 @@ Microfone 1: Danke.
 
 480
 00:45:09,440 --> 00:45:14,040
-Herald: Ok, wir haben dann ein bisschen
-Zeit. Deswegen wir machen noch ein paar
+Herald: Certo, temos um pouco mais de tempo. 
+Deswegen wir machen noch ein paar
 
 481
 00:45:14,040 --> 00:45:18,330
@@ -2428,17 +2428,17 @@ lassen.
 
 483
 00:45:19,880 --> 00:45:25,380
-Signalengel: Die Frage was wäre in der
-Praxis Update best practices für IOT-
+Signalengel: A questão é: quais 
+seriam as melhores práticas para atualizar 
 
 484
 00:45:25,380 --> 00:45:30,470
-Devices? Wenn du Autoupdates machst bist
-du angreifbar, wenn du keine Autoupdates
+dispositivos IoT? Se você fizer atualizações 
+automáticas, você estará vulnerável; se não
 
 485
 00:45:30,470 --> 00:45:34,660
-machst bist du nie gepatched.
+fizer, nunca será corrigido.
 Michael: Ja also eigentlich ist das eine
 
 486
