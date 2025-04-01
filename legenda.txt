@@ -2011,7 +2011,7 @@ dez milhões de nós de saída Tor?
 
 399
 00:38:24,740 --> 00:38:33,140
-*Gelächter* & *Aplausos*
+*Risadas* & *Aplausos*
 
 400
 00:38:33,140 --> 00:38:35,060
@@ -2019,8 +2019,8 @@ Michael: É claro que essa é uma
 
 401
 00:38:35,060 --> 00:38:40,420
-ideia muito interessante e pode-se 
-fazer muito mais com ela. Teoricamente,  pode
+ideia muito interessante e possível.
+Teoricamente, pode
 
 402
 00:38:40,420 --> 00:38:44,970
@@ -2124,23 +2124,23 @@ auch schon zwei Leute. Ihre Frage bitte.
 
 422
 00:40:21,510 --> 00:40:26,571
-microfone 3: Die Frage ist ob ihr auch die
-Shelleys angeguckt hat. Haben ja diese
+microfone 3: A questão é se você também 
+viu os Shelleys. Haben ja diese
 
 423
 00:40:26,571 --> 00:40:32,070
-Jumperkabelansteckmöglichkeit aber die
-haben auch die Cloud ausgeschaltet. Weißt
+Eles têm essa opção de conexão por cabo s, 
+mas também desativaram a nuvem.Você 
 
 424
 00:40:32,070 --> 00:40:36,180
-Du da was zu?
-Michael: Nee, das weiß ich nicht aber ich
+sabe alguma coisa sobre isso?
+Michael: Não, não sei, mas também não 
 
 425
 00:40:36,180 --> 00:40:41,610
-weiß auch nicht ob die von Haus aus diese
-Cloud benutzen. Hab ich nicht gemacht. 
+sei se eles usam essa nuvem por padrão.
+Eu não fiz isso.
 
 426
 00:40:41,610 --> 00:40:47,690
@@ -2211,12 +2211,12 @@ e não importa se elas causam algum
 439
 00:41:48,320 --> 00:41:53,520
 tipo de hack ou outras coisas.
-Wenn da große Namen hinten dran stehen ist
+Se há grandes nomes por trás disso, 
 
 440
 00:41:53,520 --> 00:42:00,150
-das natürlich eine andere Sache. Deswegen
-lieber was mit einem bekannten Namen kaufen.
+é outra história, claro. É por isso 
+que é melhor comprar algo com um nome bem conhecido.
 
 441
 00:42:00,150 --> 00:42:05,540
@@ -2379,16 +2379,16 @@ temos mais três perguntas.
 472
 00:44:36,330 --> 00:44:38,630
 Michael: Sim, por favor
-Herald: Ok, dann hier vorne die 1 bitte.
+Herald: Ok, então o 1 aqui na frente, por favor.
 
 473
 00:44:38,630 --> 00:44:42,870
-Microfone 1: Hast du dir angeschaut wie die
-Sicherheit auf der Serverseite von diesem
+Microfone 1: Você já observou a s
+egurança no lado do servidor deste
 
 474
 00:44:42,870 --> 00:44:47,050
-Cloud-Anbieter ist. Então, se  
+provedor de nuvem? Então, se  
 pode fazer algo a respeito, se  
 
 475
@@ -2414,7 +2414,7 @@ muito de perto, e não tentei
 479
 00:45:05,620 --> 00:45:09,440
 sequestrar nenhuma conta.
-Microfone 1: Danke.
+Microfone 1: Obrigado.
 
 480
 00:45:09,440 --> 00:45:14,040
@@ -2499,7 +2499,7 @@ Herald: Alguém desistiu. Ok
 496
 00:46:19,760 --> 00:46:23,040
 ainda está piscando, vi corretamente?
-Michael: Ja, hier vorne.
+Michael: Sim, aqui em cima.
 
 497
 00:46:23,040 --> 00:46:30,450
@@ -2602,12 +2602,12 @@ uma nova palestra.
 517
 00:48:24,140 --> 00:48:25,830
 Michael: Sim.
-Herald: Vielleicht mag das ja mal jemand
+Herald: Talvez alguém queira descobrir. 
 
 518
 00:48:25,830 --> 00:48:28,900
-eruieren. Eine Frage haben wir noch an der
-7. Bitteschön.
+Temos mais uma pergunta no 
+número 7. Aqui vai.
 
 519
 00:48:28,900 --> 00:48:35,150
