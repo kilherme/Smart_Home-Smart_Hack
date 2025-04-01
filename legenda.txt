@@ -1938,7 +1938,7 @@ Vamos. Vamos começar por aí.
 
 384
 00:37:13,140 --> 00:37:18,280
-microfone 2 bitte.
+microfone 2 por favor.
 microfone 2: O MQTT agora é criptografado 
 
 385
@@ -1958,7 +1958,7 @@ do comando HTTP.
 388
 00:37:29,570 --> 00:37:35,430
 *Gelächter*
-Herald: Dankeschön. Wir machen gleich bei
+Herald: Obrigado. Vamos direto ao assunto
 
 389
 00:37:35,430 --> 00:37:41,080
@@ -1983,31 +1983,31 @@ Como é de código aberto, qualquer um
 393
 00:37:52,470 --> 00:37:59,200
 pode programar o que quiser e 
-tem controle total. Und
+tem controle total. E se 
 
 394
 00:37:59,200 --> 00:38:02,610
-ob das jetzt in Klar abgespeichert wird
-oder nicht kann ich jetzt nicht direkt sagen.
+isso será salvo em claro ou 
+não, não posso dizer agora.
 
 395
 00:38:02,610 --> 00:38:10,974
-Herald: Okay, vielen Dank. 
-So, nächste Frage, Microfone 1 bitte.
+Herald: Ok, muito obrigado.
+Próxima pergunta, Microfone 1 por favor.
 
 396
 00:38:10,974 --> 00:38:14,020
-Microfone 1: Wenn die Lampen so populär sind
+Microfone 1: e as lâmpadas são tão populares, 
 
 397
 00:38:14,020 --> 00:38:19,850
-könnte man nicht eine Stiftung haben die
-zehn Millionen Lampen verkauft auf denen
+não poderíamos ter uma fundação que 
+vendesse dez milhões de lâmpadas
 
 398
 00:38:19,850 --> 00:38:24,740
-wir dann zehn Millionen Tor-Exit-Nodes
-laufen lassen?
+nas quais então executaríamos 
+dez milhões de nós de saída Tor?
 
 399
 00:38:24,740 --> 00:38:33,140
@@ -2020,7 +2020,7 @@ Michael: É claro que essa é uma
 401
 00:38:35,060 --> 00:38:40,420
 ideia muito interessante e pode-se 
-fazer muito mais com ela.Teoricamente, você pode
+fazer muito mais com ela. Teoricamente,  pode
 
 402
 00:38:40,420 --> 00:38:44,970
