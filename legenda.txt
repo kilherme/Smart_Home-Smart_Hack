@@ -1878,25 +1878,27 @@ se os dados não podem ser
 372
 00:35:52,200 --> 00:36:01,160
 salvos é na verdade uma mentira 
-e não, não é necessário.Já 
+e não, não é necessário.
 
 373
 00:36:01,160 --> 00:36:08,630
-anunciei que adicionarei mais
-Informações disponíveis para download 
+Já anunciei que adicionarei mais
+informações disponíveis para download 
 
 
 374
 00:36:08,630 --> 00:36:14,750
-em nosso site. Entre outras coisas, também há scripts com os quais você pode instalar outro 
+em nosso site. Entre outras coisas, 
+também há scripts com os quais pode instalar outro 
 
 375
 00:36:14,750 --> 00:36:17,743
-firmware nesses dispositivos. Infelizmente,
+firmware nesses dispositivos.
+Infelizmente,
 
 376
 00:36:17,743 --> 00:36:21,040
- ainda não terminei tudo isso,
+ainda não terminei tudo isso,
 
 377
 00:36:21,040 --> 00:36:29,070
