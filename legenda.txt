@@ -1962,12 +1962,12 @@ Herald: Dankeschön. Wir machen gleich bei
 
 389
 00:37:35,430 --> 00:37:41,080
-Dir weiter. Ihr mommt dann als nächster.
-Deine Frage bitte.
+Você mais adiante. Você vem em seguida.
+Sua pergunta por favor
 
 390
 00:37:41,080 --> 00:37:44,880
-microfonefon: Como firmwares alternativos resolvem 
+Microfonefone 1: Como firmwares alternativos resolvem 
 o problema [inaudível] da senha 
 
 391
