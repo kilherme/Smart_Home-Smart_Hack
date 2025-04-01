@@ -1210,12 +1210,13 @@ com ela e pode ser usada. O que me
 
 238
 00:22:25,529 --> 00:22:29,580
-interessou muito mais foi a atualização,
-porque eu realmente queria trazer minha própria empresa 
+interessou muito foi a atualização, porque
+eu queria trazer minha própria empresa 
 
 239
 00:22:29,580 --> 00:22:35,399
-e para isso eu tinha uma lâmpada que tinha um novo 
+e para isso eu tinha uma 
+lâmpada que tinha um novo 
 
 240
 00:22:35,399 --> 00:22:42,120
@@ -1384,7 +1385,7 @@ tem o Upgrade iniciado do Binario
 273
 00:26:02,500 --> 00:26:10,110
 que esta no meu servidor. Agora estamos 
-falando do nosso próprio firmware. Eu
+falando do nosso próprio firmware. 
 
 274
 00:26:10,110 --> 00:26:17,480
@@ -1490,7 +1491,7 @@ usar qualquer navegador,
 294
 00:28:10,799 --> 00:28:19,710
 digitar o endereço IP e a porta do meu
-servidor externo e então estará na rede local do operador 
+servidor externo e então estará na rede local 
 
 295
 00:28:19,710 --> 00:28:25,260
@@ -1564,18 +1565,18 @@ ver que também havia um Fritzbox na rede.
 
 309
 00:29:47,639 --> 00:29:56,259
-Fritzbox na rede. Also das heißt, man
-kann mit dem Proxy nicht nur den Internet
+Fritzbox na rede. Isso significa que,
+com o proxy, você não só pode usar a 
 
 310
 00:29:56,259 --> 00:30:01,610
-Account des Opfers benutzen für Bot-Netze
-und so weiter, oder für alles andere,
+conta de internet da vítima para 
+botnets e assim por diante, ou 
 
 311
 00:30:01,610 --> 00:30:04,539
-sondern man kann sich ja auch im lokalen
-Netzwerk ganz einfach bewegen.
+para qualquer outra coisa, mas também 
+pode se mover facilmente pela rede local.
 
 312
 00:30:04,539 --> 00:30:14,009
