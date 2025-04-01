@@ -1935,8 +1935,8 @@ Vamos. Vamos começar por aí.
 
 384
 00:37:13,140 --> 00:37:18,280
-Mikro 2 bitte.
-Mikro 2: O MQTT agora é criptografado 
+microfone 2 bitte.
+microfone 2: O MQTT agora é criptografado 
 
 385
 00:37:18,280 --> 00:37:20,490
@@ -1964,7 +1964,7 @@ Deine Frage bitte.
 
 390
 00:37:41,080 --> 00:37:44,880
-Mikrofon: Como firmwares alternativos resolvem 
+microfonefon: Como firmwares alternativos resolvem 
 o problema [inaudível] da senha 
 
 391
@@ -1990,11 +1990,11 @@ oder nicht kann ich jetzt nicht direkt sagen.
 395
 00:38:02,610 --> 00:38:10,974
 Herald: Okay, vielen Dank. 
-So, nächste Frage, Mikro 1 bitte.
+So, nächste Frage, Microfone 1 bitte.
 
 396
 00:38:10,974 --> 00:38:14,020
-Mikro 1: Wenn die Lampen so populär sind
+Microfone 1: Wenn die Lampen so populär sind
 
 397
 00:38:14,020 --> 00:38:19,850
@@ -2046,7 +2046,7 @@ próxima pergunta, microfone 1 novamente.
 
 407
 00:39:08,790 --> 00:39:14,380
-Mikro 1: Você disse no início da 
+Microfone 1: Você disse no início da 
 apresentação que este é um fabricante
 
 408
@@ -2112,7 +2112,7 @@ elétricos porque eles são bem
 420
 00:40:10,690 --> 00:40:16,730
 populares e usados ​​em todos os lugares.
-Herald: Ich würde jetzt gern mit Mikro
+Herald: Ich würde jetzt gern mit microfone
 
 421
 00:40:16,730 --> 00:40:21,510
@@ -2121,7 +2121,7 @@ auch schon zwei Leute. Ihre Frage bitte.
 
 422
 00:40:21,510 --> 00:40:26,571
-Mikro 3: Die Frage ist ob ihr auch die
+microfone 3: Die Frage ist ob ihr auch die
 Shelleys angeguckt hat. Haben ja diese
 
 423
@@ -2152,7 +2152,7 @@ Herald: Ok obrigado, então vamos para a próxima
 428
 00:40:53,390 --> 00:40:59,990
 pergunta, número 2, por favor.
-Mikro 2: Não sou programador,
+microfone 2: Não sou programador,
 
 429
 00:40:59,990 --> 00:41:04,710
@@ -2267,12 +2267,12 @@ Herald: Ok, Dankeschön. Ich nehme erst mal
 
 451
 00:42:47,830 --> 00:42:51,920
-das Mikro Nr. 7. Alguém está esperando 
+das microfone Nr. 7. Alguém está esperando 
 há mais tempo. A pergunta, por favor.
 
 452
 00:42:51,920 --> 00:42:55,310
-Mikro 7: Sim, isso é quase 
+microfone 7: Sim, isso é quase 
 um comentário. Além disso...
 
 453
@@ -2287,12 +2287,12 @@ Não queremos comentários.
 
 455
 00:43:02,690 --> 00:43:06,680
-Obrigado. Dann Mikro Nummer 8.
+Obrigado. Dann microfone Nummer 8.
 Bitteschön, danke.
 
 456
 00:43:06,680 --> 00:43:12,980
-Mikro 8: A solicitação MQTT vai diretamente 
+microfone 8: A solicitação MQTT vai diretamente 
 para o provedor de nuvem, certo?
 
 457
@@ -2328,7 +2328,7 @@ tanto.
 
 463
 00:43:44,550 --> 00:43:50,080
-Mikro 5: Muito obrigado. Há alguma 
+microfone 5: Muito obrigado. Há alguma 
 restrição se eu configurar uma WLAN 
 
 464
@@ -2378,7 +2378,7 @@ Herald: Ok, dann hier vorne die 1 bitte.
 
 473
 00:44:38,630 --> 00:44:42,870
-Mikro 1: Hast du dir angeschaut wie die
+Microfone 1: Hast du dir angeschaut wie die
 Sicherheit auf der Serverseite von diesem
 
 474
@@ -2409,7 +2409,7 @@ muito de perto, e não tentei
 479
 00:45:05,620 --> 00:45:09,440
 sequestrar nenhuma conta.
-Mikro 1: Danke.
+Microfone 1: Danke.
 
 480
 00:45:09,440 --> 00:45:14,040
@@ -2468,18 +2468,18 @@ Geräte.
 
 491
 00:46:00,520 --> 00:46:07,740
-Herald: Ok, ich glaube Mikro 7 ist noch
+Herald: Ok, ich glaube microfone 7 ist noch
 jemand. Deine Frage bitte.
 
 492
 00:46:07,740 --> 00:46:09,920
-Mikro 7: Foi a mesma pergunta.
+microfone 7: Foi a mesma pergunta.
 Michael: Ok.
 
 493
 00:46:09,920 --> 00:46:14,110
 Herald: Foi a mesma pergunta dele.
-Mikro 8.
+microfone 8.
 
 494
 00:46:14,110 --> 00:46:18,641
@@ -2500,7 +2500,7 @@ Michael: Ja, hier vorne.
 497
 00:46:23,040 --> 00:46:30,450
 Herald: Ah ok, die 3 Bitteschön, danke.
-Mikrofon 3: Thank you, so this cleartext
+microfonefon 3: Thank you, so this cleartext
 
 498
 00:46:30,450 --> 00:46:37,690
@@ -2543,11 +2543,11 @@ Michael: Vielleicht aber nicht meines Wissens.
 
 506
 00:47:34,621 --> 00:47:36,360
-Herald: Mikro 3 Bitteschön.
+Herald: microfone 3 Bitteschön.
 
 507
 00:47:36,360 --> 00:47:44,190
-Mikro 3: Gibt es Anzeichen dass die Daten
+microfone 3: Gibt es Anzeichen dass die Daten
 der User verkauft werden? Und wenn nein
 
 508
@@ -2607,37 +2607,36 @@ eruieren. Eine Frage haben wir noch an der
 
 519
 00:48:28,900 --> 00:48:35,150
-Mikro 7: Bin ich richtig in der Annahme
-dass Zigbee-Geräte nicht betroffen sind?
+microfone 7: Estou correto em supor 
+que os dispositivos Zigbee não são afetados?
 
 520
 00:48:35,150 --> 00:48:44,040
-Michael: Das kommt drauf an ob der Zigbee-
-Server der es dann ans Internet ankuppelt
+Michael: Isso depende se o servidor Zigbee
+que o conecta à Internet é afetado.
 
 521
 00:48:44,040 --> 00:48:49,310
-damit betroffen ist. Weil das gibt's
-natürlich auch, also wenn die Bridge
+Porque é claro que isso também acontece,
+então se a própria ponte usa essa
 
 522
 00:48:49,310 --> 00:48:55,450
-selbst diese Technologie z.B. benutzt dann
-ist es das gleiche Spiel weil dann ist das
+tecnologia, por exemplo, então é
+o mesmo jogo, porque então a vítima 
 
 523
 00:48:55,450 --> 00:49:01,250
-Opfer nicht mehr die Glühbirne selbst
-sondern die Bridge.
+não é mais a lâmpada em si, mas a ponte.
 
 524
 00:49:01,250 --> 00:49:06,120
-Herald: Mmh. Mikro 1 haben wir noch eine
-Frage. Bitteschön.
+Herald: Mmh. Microfone 1 tem mais uma
+pergunta. Por favor.
 
 525
 00:49:06,120 --> 00:49:09,681
-Mikro 1: Tenho uma pequena dúvida . 
+Microfone 1: Tenho uma pequena dúvida . 
 Com smartconfig, na configuração, 
 
 526
@@ -2648,7 +2647,7 @@ o SSID, senha, IP etc
 527
 00:49:14,010 --> 00:49:16,500
 Michael: Sim.
-Mikro 1: Até que ponto posso 
+Microfone 1: Até que ponto posso 
 
 528
 00:49:16,500 --> 00:49:22,100
@@ -2702,7 +2701,7 @@ man auch langsam Schluss machen. Deine
 538
 00:50:02,190 --> 00:50:04,940
 Frage bitte.
-Mikro 1: Foi dito que também 
+Microfone 1: Foi dito que também 
 
 539
 00:50:04,940 --> 00:50:10,030
